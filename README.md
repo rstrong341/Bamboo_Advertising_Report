@@ -1,10 +1,12 @@
 # Bamboo_Advertising_Report
 Analysis of advertising campaign to reassess where to allocate resources
 
-##Outline
+## Outline
 
-#Order Report
+# Order Report
+
 Cluster map
+
 html page featuring top visulaizations
 
 vizualizations
@@ -12,7 +14,7 @@ vizualizations
   
   
 
-#Advertising Report
+# Advertising Report
 
 
 https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sharing
