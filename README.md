@@ -1,16 +1,15 @@
 # Bamboo_Advertising_Report
 Analysis of advertising campaign to reassess where to allocate resources
 
-## Outline
+## Summary
+This report is comprised of two datasets, one is total sales and the other is a report from Amazon on the effectiveness of an advertising campaign.  
+
+
+
+
 
 # Order Report
 
-Cluster map
-
-html page featuring top visulaizations
-
-vizualizations
-  Month by month beakdown of sales
   
   
 
