@@ -11,9 +11,9 @@ For the advertising report, I focused more on trying to draw correlations betwee
 Moving forward, I will follow along as I receive new data to see how advertising efforts are effecting sales numbers.
 
 ## How to view project
-All cleaning was done in order report cleaning and ad report
+* All cleaning was done in order report cleaning and ad report
 
-All vizualizations were done in Orders_Viz and Adverising_Viz
+* All vizualizations were done in Orders_Viz and Adverising_Viz
 
 # Order Report
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Sales%20by%20Month.PNG)
