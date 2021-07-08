@@ -12,6 +12,7 @@ Moving forward, I will follow along as I receive new data to see how advertising
 
 ## How to view project
 All cleaning was done in order report cleaning and ad report
+
 All vizualizations were done in Orders_Viz and Adverising_Viz
 
 # Order Report
