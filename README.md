@@ -1,4 +1,4 @@
-# Bamboo_Advertising_Report
+# Bamboo Advertising Report
 Analysis of advertising campaign to reassess where to allocate resources
 
 ## Summary
