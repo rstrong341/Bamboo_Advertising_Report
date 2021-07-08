@@ -25,8 +25,6 @@ https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sha
 
 # Advertising Report
 ![heatmap](https://user-images.githubusercontent.com/74929838/124980031-bb236d80-dfe8-11eb-9a5a-96cf09e3cb74.png)
-![impressions-spending](https://user-images.githubusercontent.com/74929838/124980045-bfe82180-dfe8-11eb-98c4-f1df65de0ca7.png)
-![sales-spending](https://user-images.githubusercontent.com/74929838/124980058-c1b1e500-dfe8-11eb-991d-a8c6b3c84ea5.png)
 
 Impression and Spending            |  Sales and Spending
 :-------------------------:|:-------------------------:
