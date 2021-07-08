@@ -34,5 +34,9 @@ Impression and Spending            |  Sales and Spending
   |  ![sales-spending](https://user-images.githubusercontent.com/74929838/124983034-52d68b00-dfec-11eb-8c0e-6cdc4501fc74.png)
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/74929838/124983051-58cc6c00-dfec-11eb-9b95-7b6aa5bf0552.png)  |  ![](https://user-images.githubusercontent.com/74929838/124983034-52d68b00-dfec-11eb-8c0e-6cdc4501fc74.png)
+
 # Order Report Vizualizations
 
