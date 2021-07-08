@@ -2,25 +2,33 @@
 Analysis of advertising campaign to reassess where to allocate resources
 
 ## Summary
-This report is comprised of two datasets, one is total sales and the other is a report from Amazon on the effectiveness of an advertising campaign.  
+This report is comprised of two datasets, one is total sales and the other is a report from Amazon on the effectiveness of an advertising campaign. The goal of this project is to summarize the two datasets and uncover any significant efficiencies/inefficiencies in order to optimize advertising spending in the future.
 
+For the order report, I created several vizulaizations showcasing sales over time, how products are doing compared to each other and a geographical breakdown of where the bulk of sales are coming from.
 
+For the advertising report, I focused more on trying to draw correlations between sales and the different metrics offered by Amazon.  
 
+Moving forward, I will follow along as I receive new data to see how advertising efforts are effecting sales numbers.
 
+## How to view project
+All cleaning was done in order report cleaning and ad report
+All vizualizations were done in Orders_Viz and Adverising_Viz
 
 # Order Report
+![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Sales%20by%20Month.PNG)
+![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Montly_Product_Sales.PNG)
 
+
+https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sharing
   
   
 
 # Advertising Report
+![heatmap](https://user-images.githubusercontent.com/74929838/124980031-bb236d80-dfe8-11eb-9a5a-96cf09e3cb74.png)
+![impressions-spending](https://user-images.githubusercontent.com/74929838/124980045-bfe82180-dfe8-11eb-98c4-f1df65de0ca7.png)
+![sales-spending](https://user-images.githubusercontent.com/74929838/124980058-c1b1e500-dfe8-11eb-991d-a8c6b3c84ea5.png)
 
-
-https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sharing
 
 
 # Order Report Vizualizations
-![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Sales%20by%20Month.PNG)
-![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Montly_Product_Sales.PNG)
-
 
