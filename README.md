@@ -28,9 +28,11 @@ https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sha
 ![impressions-spending](https://user-images.githubusercontent.com/74929838/124980045-bfe82180-dfe8-11eb-98c4-f1df65de0ca7.png)
 ![sales-spending](https://user-images.githubusercontent.com/74929838/124980058-c1b1e500-dfe8-11eb-991d-a8c6b3c84ea5.png)
 
-Solarized dark             |  Solarized Ocean
+Impression and Spending            |  Sales and Spending
 :-------------------------:|:-------------------------:
-![impressions-spending](https://user-images.githubusercontent.com/74929838/124980045-bfe82180-dfe8-11eb-98c4-f1df65de0ca7.png)  |  ![sales-spending](https://user-images.githubusercontent.com/74929838/124980058-c1b1e500-dfe8-11eb-991d-a8c6b3c84ea5.png)
+![impressions-spending](https://user-images.githubusercontent.com/74929838/124983051-58cc6c00-dfec-11eb-9b95-7b6aa5bf0552.png)
+  |  ![sales-spending](https://user-images.githubusercontent.com/74929838/124983034-52d68b00-dfec-11eb-8c0e-6cdc4501fc74.png)
+
 
 # Order Report Vizualizations
 
