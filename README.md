@@ -20,7 +20,6 @@ https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sha
 
 
 # Order Report Vizualizations
-![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/sales-month.png)
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Sales%20by%20Month.PNG)
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Montly_Product_Sales.PNG)
 
