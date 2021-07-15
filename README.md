@@ -36,7 +36,7 @@ Orders By State            |  Orders By State Per Captita
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/74929838/125850962-a78e9f97-0c1d-4cfc-8476-2f734256f8d4.PNG)  |  ![](https://user-images.githubusercontent.com/74929838/125850882-69ed4e26-ea8b-41a3-ae73-50c198c29a2a.PNG)
 
-* This link here can help vizualize all 50 states
+* Click this link to view a map that includes a pin for all purchases including international purchases
 https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sharing
   
   
