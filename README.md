@@ -17,19 +17,21 @@ Moving forward, I will follow along as I receive new data to see how advertising
 * All vizualizations were done in Orders_Viz and Adverising_Viz
 
 # Order Report
+## Monthly Breakdown
+* Looking at the monthly breakdown of sales we can see a steady increase in slaes over time with a steap increase in May and June
+* IMPORTNAT NOTE, both December and June are only half of a month
+* Looking forward I will be updating as time goes on to determine if these rises are seasonal or if they are going to continue to raapidly increase.
 ![](https://user-images.githubusercontent.com/74929838/125850029-5aa5a478-5472-4abc-a345-9a0194cfac04.PNG)
+## Product Breakdown
+
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Montly_Product_Sales.PNG)
 
-
+## Regional Breakdown
 Orders By State            |  Orders By State Per Captita
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/74929838/125850962-a78e9f97-0c1d-4cfc-8476-2f734256f8d4.PNG)  |  ![](https://user-images.githubusercontent.com/74929838/125850882-69ed4e26-ea8b-41a3-ae73-50c198c29a2a.PNG)
 
-
-
-![Sales_By_State]
-
-
+* This link here can help vizualize all 50 states
 https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sharing
   
   
