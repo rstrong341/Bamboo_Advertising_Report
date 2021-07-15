@@ -1,4 +1,4 @@
-# Bamboo_Advertising_Report
+# Bamboo Advertising Report
 Analysis of advertising campaign to reassess where to allocate resources
 
 ## Summary
@@ -11,8 +11,9 @@ For the advertising report, I focused more on trying to draw correlations betwee
 Moving forward, I will follow along as I receive new data to see how advertising efforts are effecting sales numbers.
 
 ## How to view project
-All cleaning was done in order report cleaning and ad report
-All vizualizations were done in Orders_Viz and Adverising_Viz
+* All cleaning was done in order report cleaning and ad report
+
+* All vizualizations were done in Orders_Viz and Adverising_Viz
 
 # Order Report
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Sales%20by%20Month.PNG)
@@ -25,12 +26,10 @@ https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sha
 
 # Advertising Report
 ![heatmap](https://user-images.githubusercontent.com/74929838/124980031-bb236d80-dfe8-11eb-9a5a-96cf09e3cb74.png)
-![impressions-spending](https://user-images.githubusercontent.com/74929838/124980045-bfe82180-dfe8-11eb-98c4-f1df65de0ca7.png)
-![sales-spending](https://user-images.githubusercontent.com/74929838/124980058-c1b1e500-dfe8-11eb-991d-a8c6b3c84ea5.png)
 
-Solarized dark             |  Solarized Ocean
+Impression and Spending            |  Sales and Spending
 :-------------------------:|:-------------------------:
-![impressions-spending](https://user-images.githubusercontent.com/74929838/124980045-bfe82180-dfe8-11eb-98c4-f1df65de0ca7.png)  |  ![sales-spending](https://user-images.githubusercontent.com/74929838/124980058-c1b1e500-dfe8-11eb-991d-a8c6b3c84ea5.png)
+![](https://user-images.githubusercontent.com/74929838/124983051-58cc6c00-dfec-11eb-9b95-7b6aa5bf0552.png)  |  ![](https://user-images.githubusercontent.com/74929838/124983034-52d68b00-dfec-11eb-8c0e-6cdc4501fc74.png)
 
 # Order Report Vizualizations
 
