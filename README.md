@@ -42,12 +42,21 @@ https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sha
   
 
 # Advertising Report
+###Correlation Heatmap For Spending Per Day
+* Here, I am trying to see what factors impact how much we spend.
+* As expected Clicks are almost a perfectifly direct correlation.
+* What I found interesting was that Sales had a more clear correlation than impressions.
 ![heatmap](https://user-images.githubusercontent.com/74929838/125853926-38712312-0773-4450-8448-796816e23da4.png)
 
+## Impresions Vs. Sales
+* With this vizualization I wanted to see the difference between how Impressions and Sales effect how much we spend.
 Impression and Spending            |  Sales and Spending
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/74929838/124983051-58cc6c00-dfec-11eb-9b95-7b6aa5bf0552.png)  |  ![](https://user-images.githubusercontent.com/74929838/124983034-52d68b00-dfec-11eb-8c0e-6cdc4501fc74.png)
 
+
+###Identifying key words to avoid
+* In order to effectively adjust how we spend our advertising money I wanted to look at what key words we're spending money on but yeild zero profits.
 ![](https://user-images.githubusercontent.com/74929838/125853727-565b2911-6582-4cb5-8258-311892080d2f.PNG)
 
 
