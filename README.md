@@ -1,4 +1,4 @@
-![Orders_PerCapita_By_State](https://user-images.githubusercontent.com/74929838/125850682-9baaedff-0000-49f9-9e1b-029ea9f10f47.PNG)
+
 # Bamboo Advertising Report
 Analysis of advertising campaign to reassess where to allocate resources
 
@@ -23,10 +23,7 @@ Moving forward, I will follow along as I receive new data to see how advertising
 
 Impression and Spending            |  Sales and Spending
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/74929838/125850720-f174804a-ef0b-4709-b60a-43bf5248702a.PNG)  |  ![](https://user-images.githubusercontent.com/74929838/125850746-21192904-7479-4724-8451-bf33d97399e5.PNG)
-
-
-
+![](https://user-images.githubusercontent.com/74929838/125850720-f174804a-ef0b-4709-b60a-43bf5248702a.PNG)  |  ![](https://user-images.githubusercontent.com/74929838/125850882-69ed4e26-ea8b-41a3-ae73-50c198c29a2a.PNG)
 
 
 https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sharing
