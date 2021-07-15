@@ -16,6 +16,8 @@ Moving forward, I will follow along as I receive new data to see how advertising
 * All vizualizations were done in Orders_Viz and Adverising_Viz
 
 # Order Report
+![](https://user-images.githubusercontent.com/74929838/125850029-5aa5a478-5472-4abc-a345-9a0194cfac04.PNG)
+
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Sales%20by%20Month.PNG)
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Montly_Product_Sales.PNG)
 ![](https://user-images.githubusercontent.com/74929838/125849477-8348bb5c-d7da-4eb5-8107-ad1a272c099a.PNG)
