@@ -18,6 +18,9 @@ Moving forward, I will follow along as I receive new data to see how advertising
 # Order Report
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Sales%20by%20Month.PNG)
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Montly_Product_Sales.PNG)
+![](https://user-images.githubusercontent.com/74929838/125849477-8348bb5c-d7da-4eb5-8107-ad1a272c099a.PNG)
+![](https://user-images.githubusercontent.com/74929838/125849386-5ffc49a9-cdde-4837-a7e1-7bda4438737c.PNG)
+
 
 
 https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sharing
