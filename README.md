@@ -21,9 +21,13 @@ Moving forward, I will follow along as I receive new data to see how advertising
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Montly_Product_Sales.PNG)
 
 
-Impression and Spending            |  Sales and Spending
+Orders By State            |  Orders By State Per Captita
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/74929838/125850720-f174804a-ef0b-4709-b60a-43bf5248702a.PNG)  |  ![](https://user-images.githubusercontent.com/74929838/125850882-69ed4e26-ea8b-41a3-ae73-50c198c29a2a.PNG)
+![](https://user-images.githubusercontent.com/74929838/125850962-a78e9f97-0c1d-4cfc-8476-2f734256f8d4.PNG)  |  ![](https://user-images.githubusercontent.com/74929838/125850882-69ed4e26-ea8b-41a3-ae73-50c198c29a2a.PNG)
+
+
+
+![Sales_By_State]
 
 
 https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sharing
