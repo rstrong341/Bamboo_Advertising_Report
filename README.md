@@ -1,38 +1,37 @@
-
 # Bamboo Advertising Report
 Analysis of advertising campaign to reassess where to allocate resources
 
 ## Summary
 This report is comprised of two datasets, one is total sales and the other is a report from Amazon on the effectiveness of an advertising campaign. The goal of this project is to summarize the two datasets and uncover any significant efficiencies/inefficiencies in order to optimize advertising spending in the future.
 
-For the order report, I created several vizulaizations showcasing sales over time, how products are doing compared to each other and a geographical breakdown of where the bulk of sales are coming from.
+For the order report, I created several visualizations showcasing sales over time, how products are doing compared to each other and a geographical breakdown of where the bulk of sales are coming from.
 
 For the advertising report, I focused more on trying to draw correlations between sales and the different metrics offered by Amazon.  
 
-Moving forward, I will follow along as I receive new data to see how advertising efforts are effecting sales numbers.
+Moving forward, I will follow along as I receive new data to see how advertising efforts are affecting sales numbers.
 
 ## How to view project
 * All cleaning was done in order report cleaning and ad report
 
-* All vizualizations were done in Orders_Viz and Adverising_Viz
+* All visualizations were done in Orders_Viz and Advertising Viz
 
 # Order Report
 ### Monthly Breakdown
-* Looking at the monthly breakdown of sales we can see a steady increase in slaes over time with a steap increase in May and June
+* Looking at the monthly breakdown of sales we can see a steady increase in sales over time with a steep increase in May and June
 * IMPORTNAT NOTE, both December and June are only half of a month
-* Looking forward I will be updating as time goes on to determine if these rises are seasonal or if they are going to continue to raapidly increase.
+* Looking forward I will be updating as time goes on to determine if these rises are seasonal or if they are going to continue to rapidly increase.
 ![](https://user-images.githubusercontent.com/74929838/125850029-5aa5a478-5472-4abc-a345-9a0194cfac04.PNG)
 ### Product Breakdown
 * Here we can see that Rainforest Bowls are outperforming Floral Bowls every month.  
-* The one unique trend is the dip in Rainforest sales in March along with a steep rise in Floral sales.  It could be worth looking into the following year to see if a simmilar trend takes place.
+* The one unique trend is the dip in Rainforest sales in March along with a steep rise in Floral sales.  It could be worth looking into the following year to see if a similar trend takes place.
 ![](https://github.com/rstrong341/Bamboo_Advertising_Report/blob/main/images/Montly_Product_Sales.PNG)
 
 ### Regional Breakdown
-* Initially I wanted to see what states placed the most orders in order to hone in on what regional demographics are worth targeting.  However the first thing I noticed was that all of the states with high order totals all have massive population sizes.  
-* This lead me to add a seconf vizualization to show which states have the most sales in relation to their population size.
-* After viewing both graphs I'd conclude that California, Vermont, Washington, Massachusetts and Colarado are the best states to market to.
+* Initially I wanted to see what states placed the most orders in order to hone in on what regional demographics are worth targeting.  However, the first thing I noticed was that all of the states with high order totals all have massive population sizes.  
+* This led me to add a second visualization to show which states have the most sales in relation to their population size.
+* After viewing both graphs I'd conclude that California, Vermont, Washington, Massachusetts and Colorado are the best states to market to.
 
-Orders By State            |  Orders By State Per Captita
+Orders By State            |  Orders By State Per Capita
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/74929838/125850962-a78e9f97-0c1d-4cfc-8476-2f734256f8d4.PNG)  |  ![](https://user-images.githubusercontent.com/74929838/125850882-69ed4e26-ea8b-41a3-ae73-50c198c29a2a.PNG)
 
@@ -42,14 +41,14 @@ https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sha
   
 
 # Advertising Report
-### Correlation Heatmap For Spending Per Day
+### Correlation Heatmap for Spending Per Day
 * Here, I am trying to see what factors impact how much we spend.
-* As expected Clicks are almost a perfectifly direct correlation.
-* What I found interesting was that Sales had a more clear correlation than impressions.
+* As expected, Clicks are almost a perfectively direct correlation.
+* What I found interesting was that Sales had a clearer correlation than impressions.
 ![heatmap](https://user-images.githubusercontent.com/74929838/125853926-38712312-0773-4450-8448-796816e23da4.png)
 
-## Impresions Vs. Sales
-* With this vizualization I wanted to see the difference between how Impressions and Sales effect how much we spend.
+## Impressions Vs. Sales
+* With this visualization I wanted to see the difference between how Impressions and Sales effect how much we spend.
 
 Impression and Spending            |  Sales and Spending
 :-------------------------:|:-------------------------:
@@ -57,7 +56,7 @@ Impression and Spending            |  Sales and Spending
 
 
 ###Identifying key words to avoid
-* In order to effectively adjust how we spend our advertising money I wanted to look at what key words we're spending money on but yeild zero profits.
+* In order to effectively adjust how we spend our advertising money I wanted to look at what key words we're spending money on but yield zero profits.
 
 
 ![](https://user-images.githubusercontent.com/74929838/125853727-565b2911-6582-4cb5-8258-311892080d2f.PNG)
