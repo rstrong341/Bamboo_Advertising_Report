@@ -42,7 +42,7 @@ https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sha
   
 
 # Advertising Report
-###Correlation Heatmap For Spending Per Day
+### Correlation Heatmap For Spending Per Day
 * Here, I am trying to see what factors impact how much we spend.
 * As expected Clicks are almost a perfectifly direct correlation.
 * What I found interesting was that Sales had a more clear correlation than impressions.
