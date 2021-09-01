@@ -54,6 +54,11 @@ Impression and Spending            |  Sales and Spending
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/74929838/124983051-58cc6c00-dfec-11eb-9b95-7b6aa5bf0552.png)  |  ![](https://user-images.githubusercontent.com/74929838/124983034-52d68b00-dfec-11eb-8c0e-6cdc4501fc74.png)
 
+##
+* ACoS (Advertising Cost of Sale): shows how much you spent on ads to gain a dollar from attributed sales. 
+* ROAS (Return on Ad Spend): tells you how much money you earn for every dollar you spend on advertising. 
+
+
 
 ### Identifying key words to avoid
 * In order to effectively adjust how we spend our advertising money I wanted to look at what key words we're spending money on but yield zero profits.
