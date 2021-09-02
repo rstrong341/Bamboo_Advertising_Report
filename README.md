@@ -74,11 +74,6 @@ Impression and Spending            |  Sales and Spending
 
 ![](https://user-images.githubusercontent.com/74929838/125853727-565b2911-6582-4cb5-8258-311892080d2f.PNG)
 
-### Most Efficient Key Terms
-
-Work in progress
-
-###  Trends for Key Terms
-
-Work in Progress
+# Conclusion
+* We can clearly see that profits are trending upwards and that if we continue to actively identify efficiencies as well as inefficiencies we can easily justify all adversising spending.
 
