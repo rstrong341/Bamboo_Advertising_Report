@@ -61,10 +61,10 @@ Impression and Spending            |  Sales and Spending
 
 ### Key Words to Continue Financing
 
-#ACOS
+# ACOS
 ![ACOS](https://user-images.githubusercontent.com/74929838/131765208-d083ba4c-7fa6-4656-a30b-3329e48efae8.PNG)
 
-#ROAS
+# ROAS
 ![ROAS](https://user-images.githubusercontent.com/74929838/131765223-710ea494-eb9a-4457-bd74-4d047fddc3cb.PNG)
 
 
