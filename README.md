@@ -52,12 +52,15 @@ https://www.google.com/maps/d/edit?mid=1LwwXuNbNnIjzqFwPGB1MRaMHgiwj1_GA&usp=sha
 
 Impression and Spending            |  Sales and Spending
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/74929838/124983051-58cc6c00-dfec-11eb-9b95-7b6aa5bf0552.png)  |  ![](https://user-images.githubusercontent.com/74929838/124983034-52d68b00-dfec-11eb-8c0e-6cdc4501fc74.png)
+![](https://user-images.githubusercontent.com/74929838/131764901-85cefd67-2e71-4a5f-9d2e-633f05735979.PNG)  |  ![](https://user-images.githubusercontent.com/74929838/131764913-ee9ce7be-73ea-40ba-ae69-a0bc3b32d861.PNG)
 
-##
+## Glossary
+
 * ACoS (Advertising Cost of Sale): shows how much you spent on ads to gain a dollar from attributed sales. 
 * ROAS (Return on Ad Spend): tells you how much money you earn for every dollar you spend on advertising. 
 
+![SalesvsClicks](https://user-images.githubusercontent.com/74929838/131764901-85cefd67-2e71-4a5f-9d2e-633f05735979.PNG)
+![SalesvsImpressions2](https://user-images.githubusercontent.com/74929838/131764913-ee9ce7be-73ea-40ba-ae69-a0bc3b32d861.PNG)
 
 
 ### Identifying key words to avoid
