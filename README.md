@@ -59,8 +59,13 @@ Impression and Spending            |  Sales and Spending
 * ACoS (Advertising Cost of Sale): shows how much you spent on ads to gain a dollar from attributed sales. 
 * ROAS (Return on Ad Spend): tells you how much money you earn for every dollar you spend on advertising. 
 
-![SalesvsClicks](https://user-images.githubusercontent.com/74929838/131764901-85cefd67-2e71-4a5f-9d2e-633f05735979.PNG)
-![SalesvsImpressions2](https://user-images.githubusercontent.com/74929838/131764913-ee9ce7be-73ea-40ba-ae69-a0bc3b32d861.PNG)
+### Key Words to Continue Financing
+
+#ACOS
+![ACOS](https://user-images.githubusercontent.com/74929838/131765208-d083ba4c-7fa6-4656-a30b-3329e48efae8.PNG)
+
+#ROAS
+![ROAS](https://user-images.githubusercontent.com/74929838/131765223-710ea494-eb9a-4457-bd74-4d047fddc3cb.PNG)
 
 
 ### Identifying key words to avoid
