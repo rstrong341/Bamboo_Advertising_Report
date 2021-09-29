@@ -76,4 +76,5 @@ Impression and Spending            |  Sales and Spending
 
 # Conclusion
 * We can clearly see that profits are trending upwards and that if we continue to actively identify efficiencies as well as inefficiencies we can easily justify all adversising spending.
+* We will look to monitor these trends over the upcomming months to make improvements
 
